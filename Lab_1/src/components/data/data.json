@@ -1,47 +1,82 @@
-[
+{
+  "organization": [
     {
-        "Administration": ["Zoë Robins", "Madeleine Madden" ]
+      "department": "Administration",
+      "employees": ["Zoë Robins", "Madeleine Madden"]
     },
-
     {
-        "Audit": ["Josha Sadowski", "Kate Fleetwood"]
+      "department": "Audit",
+      "employees": ["Josha Sadowski", "Kate Fleetwood"]
     },
-
     {
-        "Banking Operations": ["Priyanka Bose", "Hammed Animashauns", "Álvaro Morte",
-                "Taylor Napier", "Alan Simmonds"]
+      "department": "Banking Operations",
+      "employees": [
+        "Priyanka Bose",
+        "Hammed Animashauns",
+        "Álvaro Morte",
+        "Taylor Napier",
+        "Alan Simmonds"
+      ]
     },
-
     {
-        "Communications": ["Gil Cardinal", "Richard J. Lewis"]
+      "department": "Communications",
+      "employees": ["Gil Cardinal", "Richard J. Lewis"]
     },
-
     {
-        "Corporate Services": ["Randy Bradshaw", "Tracey Cook", "Lubomir Mykytiuk"]
+      "department": "Corporate Services",
+      "employees": ["Randy Bradshaw", "Tracey Cook", "Lubomir Mykytiuk"]
     },
-
     {
-        "Facilities": ["Dakota House",  "Lori Lea Okemah", "Renae Morrisseau", "Rick Belcourt"]
+      "department": "Facilities",
+      "employees": [
+        "Dakota House",
+        "Lori Lea Okemah",
+        "Renae Morrisseau",
+        "Rick Belcourt"
+      ]
     },
-
     {
-        "Financial Services": ["Selina Hanusa", "Buffy Gaudry", "Shaneen Ann Fox", "Allan Little",
-        "Danny Rabbit"]
+      "department": "Financial Services",
+      "employees": [
+        "Selina Hanusa",
+        "Buffy Gaudry",
+        "Shaneen Ann Fox",
+        "Allan Little",
+        "Danny Rabbit"
+      ]
     },
-
     {
-        "Human Resources": ["Jesse Ed Azure", "Stacy Da Silva", "Vladimír Valenta", "Samone Sayeses-Whitney",
-        "Paul Coeur"]
+      "department": "Human Resources",
+      "employees": [
+        "Jesse Ed Azure",
+        "Stacy Da Silva",
+        "Vladimír Valenta",
+        "Samone Sayeses-Whitney",
+        "Paul Coeur"
+      ]
     },
-
     {
-        "Information Technology": ["Graham Greene", "Sandika Evergreen", "Jennifer Rodriguez (Software Developer)"]
+      "department": "Information Technology",
+      "employees": [
+        "Graham Greene",
+        "Sandika Evergreen",
+        "Jennifer Rodriguez (Software Developer)"
+      ]
     },
-
     {
-        "IT Technician": ["Aiyana Littlebear", "Inara Thunderbird", "Kaya Runningbrook", "Elara Firehawk", "Siona Moonflower",
-        "Kaiyu Greywolf ", "Ayawamat Nightwind", "Tala Braveheart", "Iniko Stonebear", "Onatah Redhawk"]
+      "department": "IT Technician",
+      "employees": [
+        "Aiyana Littlebear",
+        "Inara Thunderbird",
+        "Kaya Runningbrook",
+        "Elara Firehawk",
+        "Siona Moonflower",
+        "Kaiyu Greywolf ",
+        "Ayawamat Nightwind",
+        "Tala Braveheart",
+        "Iniko Stonebear",
+        "Onatah Redhawk"
+      ]
     }
-
-    
-]
+  ]
+}

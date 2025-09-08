@@ -3,11 +3,11 @@ function Nav () {
         <nav>
             <div className = "page-links">
                 <span>
-                    <a href="employees">Employees</a>
+                    <a href="employees"> Employees </a>
                 </span>
 
                 <span>
-                    <a href="Organization">Organization</a>
+                    <a href="Organization"> Organization </a>
                 </span>
             </div>
         </nav>
